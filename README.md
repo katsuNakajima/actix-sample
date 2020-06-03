@@ -3,5 +3,5 @@
 ## Ugage
 
 ```bash
-* cargo run 
+- cargo run 
 ```
